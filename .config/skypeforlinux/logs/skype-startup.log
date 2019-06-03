@@ -1,0 +1,25 @@
+** Message: 10:32:47.934: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:47.938: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:48.152: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:48.152: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+** Message: 10:32:54.165: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:54.165: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:54.166: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:54.191: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:32:54.202: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:33:10.641: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:33:10.642: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:33:10.797: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:33:10.801: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+** Message: 10:33:10.808: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+** Message: 10:33:13.216: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+** Message: 10:33:13.956: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
